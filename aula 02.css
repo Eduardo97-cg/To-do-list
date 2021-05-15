@@ -1,0 +1,19 @@
+div {
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    height: 250px;
+}
+P {
+    text-align: center;
+}
+.foda-se {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.content {
+    width: 50%;
+    margin: 0;
+}
