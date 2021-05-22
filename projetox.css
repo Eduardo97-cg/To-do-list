@@ -1,0 +1,41 @@
+div {
+    border: 2px solid white;
+    margin: 10px;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+}
+
+#P1 {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.Box {
+    width: 20%;
+    background-color:blueviolet;
+    display: flex;
+    height: 170px;
+}
+h1 {
+    text-align:center;
+    color:cyan;
+    size: 200px;
+}
+.BoxIn {
+    height: 140px;
+    width: 90%;
+    border: 5px solid crimson;
+    margin: 10px;
+    background-color: blueviolet;
+}
+.BoxIn2 {
+    height: 120px;
+}
+h2 {
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
